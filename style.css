@@ -1,0 +1,33 @@
+img{
+    width: 300px;
+    height: 200px;
+
+}
+.img{
+    background: white;
+    text-align: center;
+   
+}
+
+body{
+    text-align: center;
+    background-color: white;
+    position: relative;
+}
+.footer-content {
+    text-align: center;
+}
+.footer-content p{
+    max-width: 500px;
+    margin: 10px auto;
+    line-height: 500px;
+    font-size: 14px;
+    text-align: center;
+    text-transform: capitalize;
+    word-spacing: 2px;
+}
+.footer-content span{
+    text-transform: uppercase;
+    opacity: 4;
+    font-weight: 100;
+}
